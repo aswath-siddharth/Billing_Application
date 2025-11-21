@@ -88,17 +88,29 @@ Electron will launch automatically.
 
 billing-app/
 │── electron/ # Electron main process
+
 │── src/
+
 │ ├── routes/ # Billing, Items, Reports, Customers, FY
+
 │ ├── stores/ # Zustand stores (items, bills, customers, FY)
+
 │ ├── components/ # Forms, thermal preview, UI helpers
+
 │ ├── utils/ # GST helpers, export, backup tools
+
 │ ├── styles/ # Thermal & Tailwind styles
+
 │ ├── mainRenderer.tsx # React entrypoint
+
 │── public/
+
 │── package.json
+
 │── vite.config.ts
+
 │── tailwind.config.cjs
+
 
 
 ---
