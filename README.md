@@ -16,7 +16,7 @@ Designed for grocery shops, supermarkets, and retail stores that require:
 
 ## Features
 
-### ✔ **Billing**
+### **Billing**
 - Autocomplete item search  
 - Add/remove items to cart  
 - Auto GST calculation  
@@ -25,36 +25,36 @@ Designed for grocery shops, supermarkets, and retail stores that require:
 - Generates printable thermal receipt  
 - Saves every bill into SQLite  
 
-### ✔ **Items Management**
+### **Items Management**
 - Add/edit/delete items  
 - English + Tamil names  
 - GST% configuration  
 - Export/Import items  
 
-### ✔ **Customer Management**
+### **Customer Management**
 - Add customers with phone & GST No.  
 - Lookup past customers easily  
 - Assign customers to invoices  
 
-### ✔ **Reports**
+### **Reports**
 - Daily & Monthly sales report  
 - GST split: **CGST / SGST**  
 - Export to **Excel / PDF**  
 - View bills by date range  
 
-### ✔ **Financial Years**
+### **Financial Years**
 - Create new FY  
 - Maintains separate DB per FY  
 - Automatic switching  
 
-### ✔ **Thermal Printing**
+### **Thermal Printing**
 - Supports **58mm & 80mm** thermal printers  
 - Includes `thermal.css`  
 - A4 invoice printing optional  
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |------|------------|
@@ -68,15 +68,15 @@ Designed for grocery shops, supermarkets, and retail stores that require:
 
 ---
 
-## 📦 Installation
+## Installation
 
-### 1️⃣ Clone the Project  
+###  Clone the Project  
 git clone https://github.com/aswath-siddharth/Billing_Application.git
 
-### 2️⃣ Install Dependencies  
+###  Install Dependencies  
 npm install
 
-### 3️⃣ Start the App (Dev Mode)  
+###  Start the App (Dev Mode)  
 npm run dev
 
 
